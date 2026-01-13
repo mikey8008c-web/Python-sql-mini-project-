@@ -1,2 +1,2 @@
-# Python-sql-mini-project-
-My first python and SQL mini project using google colad
+
+# python + SQL mini project                 This my first python and SQL mini project .                                  ## Tools used                          _Google colad                          _python                                 _SQL                                                                            ## About project                         This project is created to learn python, SQL and basic programming concepts.                                                                                      ## Author                                poojitha
