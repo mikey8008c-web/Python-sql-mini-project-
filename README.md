@@ -1,1 +1,1 @@
-
+# python + SQL mini project                                                       This is my first python and SQL mini project.                                                                          ## Description                          This project is created using python and SQL for practice.                                                                 ## Tools used                            - python.                                - SQL.                                   - GitHub 
